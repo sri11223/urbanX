@@ -1,0 +1,3205 @@
+{
+    "street_name": "Street Alpha",
+    "households": [     
+        {
+            "household_id": 1,
+            "password": "hs1",
+            "num_members": 5,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 559
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 587
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 577
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 369
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 455
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 597
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 467
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 491
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 543
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 542
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 484
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 587
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 607
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 662
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 535
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 441
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 500
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 515
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 390
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 430
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 528
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 566
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 582
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 554
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 647
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 537
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 489
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 628
+                }
+            ],
+            "monthly_total_liters": 16064
+        },
+        {
+            "household_id": 2,
+            "password": "hs2",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 648
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 752
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 788
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 738
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 742
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 625
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 644
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 748
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 709
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 769
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 709
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 701
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 764
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 726
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 740
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 563
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 734
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 712
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 673
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 726
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 788
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 698
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 633
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 827
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 739
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 740
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 694
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 547
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 620
+                }
+            ],
+            "monthly_total_liters": 21070
+        },
+        {
+            "household_id": 3,
+            "password": "hs3",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 804
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 597
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 821
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 670
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 770
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 792
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 749
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 653
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 698
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 809
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 646
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 646
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 704
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 652
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 745
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 726
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 644
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 522
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 666
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 747
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 753
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 610
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 699
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 737
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 705
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 678
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 726
+                }
+            ],
+            "monthly_total_liters": 20929
+        },
+        {
+            "household_id": 4,
+            "password": "hs4",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 589
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 580
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 654
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 548
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 577
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 547
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 654
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 611
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 606
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 609
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 535
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 636
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 543
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 712
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 674
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 563
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 659
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 432
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 468
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 544
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 643
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 671
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 731
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 524
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 694
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 550
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 640
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 547
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 751
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 454
+                }
+            ],
+            "monthly_total_liters": 17946
+        },
+        {
+            "household_id": 5,
+            "password": "hs5",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 700
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 679
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 422
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 624
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 549
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 785
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 677
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 721
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 665
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 589
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 596
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 616
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 629
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 660
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 532
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 566
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 619
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 660
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 597
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 663
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 615
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 450
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 566
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 571
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 664
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 535
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 528
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 766
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 725
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 563
+                }
+            ],
+            "monthly_total_liters": 18532
+        },
+        {
+            "household_id": 6,
+            "password": "hs6",
+            "num_members": 5,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 731
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 740
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 809
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 692
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 789
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 838
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 710
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 667
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 858
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 594
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 700
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 581
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 781
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 647
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 546
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 695
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 659
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 692
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 759
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 688
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 694
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 773
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 625
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 654
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 852
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 586
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 728
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 784
+                }
+            ],
+            "monthly_total_liters": 21210
+        },
+        {
+            "household_id": 7,
+            "password": "hs7",
+            "num_members": 3,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 235
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 278
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 293
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 323
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 417
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 260
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 352
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 303
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 247
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 220
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 271
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 354
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 292
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 279
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 266
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 358
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 316
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 240
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 391
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 275
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 325
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 344
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 362
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 268
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 341
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 401
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 336
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 336
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 272
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 323
+                }
+            ],
+            "monthly_total_liters": 9278
+        },
+        {
+            "household_id": 8,
+            "password": "hs8",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 490
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 477
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 667
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 502
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 650
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 651
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 579
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 635
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 748
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 470
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 633
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 540
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 531
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 569
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 603
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 612
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 671
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 615
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 646
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 552
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 684
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 678
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 591
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 615
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 639
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 630
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 693
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 678
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 719
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 562
+                }
+            ],
+            "monthly_total_liters": 18330
+        },
+        {
+            "household_id": 9,
+            "password": "hs9",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 653
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 655
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 504
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 587
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 624
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 671
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 509
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 577
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 583
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 643
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 489
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 675
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 551
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 517
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 590
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 531
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 555
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 527
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 589
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 687
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 517
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 613
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 553
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 507
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 575
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 615
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 594
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 626
+                }
+            ],
+            "monthly_total_liters": 17557
+        },
+        {
+            "household_id": 10,
+            "password": "hs10",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 697
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 509
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 640
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 656
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 643
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 633
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 481
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 510
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 500
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 629
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 571
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 447
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 661
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 639
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 564
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 681
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 658
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 564
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 672
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 395
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 674
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 627
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 568
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 528
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 436
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 532
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 718
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 574
+                }
+            ],
+            "monthly_total_liters": 17649
+        },
+        {
+            "household_id": 11,
+            "password": "hs11",
+            "num_members": 4,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 367
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 468
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 421
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 374
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 405
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 364
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 313
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 310
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 380
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 443
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 319
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 453
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 361
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 420
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 333
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 335
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 420
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 338
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 452
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 423
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 269
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 430
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 469
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 353
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 474
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 472
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 338
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 424
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 463
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 464
+                }
+            ],
+            "monthly_total_liters": 11855
+        },
+        {
+            "household_id": 12,
+            "password": "hs12",
+            "num_members": 3,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 345
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 252
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 316
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 307
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 279
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 227
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 301
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 268
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 242
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 235
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 272
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 178
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 297
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 350
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 287
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 389
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 309
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 329
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 327
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 271
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 199
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 344
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 263
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 313
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 341
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 254
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 261
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 274
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 249
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 247
+                }
+            ],
+            "monthly_total_liters": 8526
+        },
+        {
+            "household_id": 13,
+            "password": "hs13",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 604
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 696
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 761
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 822
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 692
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 644
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 684
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 673
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 654
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 691
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 659
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 660
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 728
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 752
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 560
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 737
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 656
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 710
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 827
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 768
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 768
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 666
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 696
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 653
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 737
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 785
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 729
+                }
+            ],
+            "monthly_total_liters": 20778
+        },
+        {
+            "household_id": 14,
+            "password": "hs14",
+            "num_members": 3,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 314
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 290
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 241
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 311
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 303
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 264
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 268
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 300
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 325
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 245
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 247
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 297
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 338
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 294
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 363
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 290
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 275
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 299
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 206
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 239
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 277
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 281
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 407
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 224
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 305
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 335
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 285
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 321
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 276
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 380
+                }
+            ],
+            "monthly_total_liters": 8800
+        },
+        {
+            "household_id": 15,
+            "password": "hs15",
+            "num_members": 5,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 499
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 382
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 578
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 539
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 609
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 421
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 484
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 471
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 558
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 507
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 471
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 375
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 401
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 549
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 537
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 451
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 610
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 357
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 428
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 419
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 546
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 439
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 581
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 484
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 492
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 446
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 524
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 498
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 418
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 524
+                }
+            ],
+            "monthly_total_liters": 14598
+        },
+        {
+            "household_id": 16,
+            "password": "hs16",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 706
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 752
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 735
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 613
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 662
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 634
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 567
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 716
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 683
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 703
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 761
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 817
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 680
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 734
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 702
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 557
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 684
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 505
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 885
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 660
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 847
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 773
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 773
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 665
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 681
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 686
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 636
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 780
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 723
+                }
+            ],
+            "monthly_total_liters": 20942
+        },
+        {
+            "household_id": 17,
+            "password": "hs17",
+            "num_members": 5,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 491
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 394
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 552
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 529
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 513
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 444
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 454
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 490
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 488
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 543
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 507
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 542
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 414
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 505
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 459
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 498
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 549
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 478
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 536
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 455
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 479
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 473
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 473
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 532
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 493
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 592
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 497
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 507
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 491
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 574
+                }
+            ],
+            "monthly_total_liters": 14952
+        },
+        {
+            "household_id": 18,
+            "password": "hs18",
+            "num_members": 3,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 326
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 404
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 249
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 404
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 255
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 271
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 268
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 357
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 399
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 323
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 340
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 301
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 235
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 273
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 286
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 392
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 274
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 254
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 282
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 294
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 230
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 378
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 197
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 249
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 372
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 282
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 269
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 343
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 326
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 347
+                }
+            ],
+            "monthly_total_liters": 9180
+        },
+        {
+            "household_id": 19,
+            "password": "hs19",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 819
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 572
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 504
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 639
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 675
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 586
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 799
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 636
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 681
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 610
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 678
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 677
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 627
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 773
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 723
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 723
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 575
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 780
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 602
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 811
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 774
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 683
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 735
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 706
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 858
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 807
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 806
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 570
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 769
+                }
+            ],
+            "monthly_total_liters": 20867
+        },
+        {
+            "household_id": 20,
+            "password": "hs20",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 578
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 593
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 649
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 685
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 575
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 618
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 630
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 591
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 634
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 681
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 642
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 583
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 510
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 602
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 648
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 621
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 559
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 576
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 516
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 633
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 611
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 761
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 530
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 604
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 547
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 551
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 697
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 592
+                }
+            ],
+            "monthly_total_liters": 18306
+        },
+        {
+            "household_id": 21,
+            "password": "hs21",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 631
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 591
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 617
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 630
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 656
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 513
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 463
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 630
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 620
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 619
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 752
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 554
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 660
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 689
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 561
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 682
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 587
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 589
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 653
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 582
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 500
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 527
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 627
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 529
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 662
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 597
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 499
+                }
+            ],
+            "monthly_total_liters": 18035
+        },
+        {
+            "household_id": 22,
+            "password": "hs22",
+            "num_members": 3,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 255
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 321
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 263
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 310
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 224
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 326
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 248
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 307
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 291
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 400
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 341
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 197
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 326
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 209
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 376
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 268
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 293
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 355
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 230
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 294
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 255
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 407
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 323
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 306
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 251
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 364
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 253
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 354
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 270
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 321
+                }
+            ],
+            "monthly_total_liters": 8938
+        },
+        {
+            "household_id": 23,
+            "password": "hs23",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 730
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 638
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 509
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 427
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 645
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 623
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 570
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 484
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 644
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 612
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 576
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 582
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 642
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 518
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 526
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 570
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 595
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 708
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 610
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 582
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 740
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 546
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 622
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 523
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 674
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 636
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 677
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 498
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 607
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 620
+                }
+            ],
+            "monthly_total_liters": 17934
+        },
+        {
+            "household_id": 24,
+            "password": "hs24",
+            "num_members": 7,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 832
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 631
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 807
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 817
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 695
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 783
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 574
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 602
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 722
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 740
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 624
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 560
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 831
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 745
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 501
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 689
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 794
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 690
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 665
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 880
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 679
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 788
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 577
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 665
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 611
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 770
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 787
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 559
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 747
+                }
+            ],
+            "monthly_total_liters": 20938
+        },
+        {
+            "household_id": 25,
+            "password": "hs25",
+            "num_members": 6,
+            "daily_usage": [
+                {
+                    "date": "2024-11-17",
+                    "total_usage_liters": 628
+                },
+                {
+                    "date": "2024-11-18",
+                    "total_usage_liters": 655
+                },
+                {
+                    "date": "2024-11-19",
+                    "total_usage_liters": 581
+                },
+                {
+                    "date": "2024-11-20",
+                    "total_usage_liters": 718
+                },
+                {
+                    "date": "2024-11-21",
+                    "total_usage_liters": 612
+                },
+                {
+                    "date": "2024-11-22",
+                    "total_usage_liters": 602
+                },
+                {
+                    "date": "2024-11-23",
+                    "total_usage_liters": 628
+                },
+                {
+                    "date": "2024-11-24",
+                    "total_usage_liters": 603
+                },
+                {
+                    "date": "2024-11-25",
+                    "total_usage_liters": 531
+                },
+                {
+                    "date": "2024-11-26",
+                    "total_usage_liters": 575
+                },
+                {
+                    "date": "2024-11-27",
+                    "total_usage_liters": 606
+                },
+                {
+                    "date": "2024-11-28",
+                    "total_usage_liters": 682
+                },
+                {
+                    "date": "2024-11-29",
+                    "total_usage_liters": 669
+                },
+                {
+                    "date": "2024-11-30",
+                    "total_usage_liters": 538
+                },
+                {
+                    "date": "2024-12-01",
+                    "total_usage_liters": 535
+                },
+                {
+                    "date": "2024-12-02",
+                    "total_usage_liters": 561
+                },
+                {
+                    "date": "2024-12-03",
+                    "total_usage_liters": 585
+                },
+                {
+                    "date": "2024-12-04",
+                    "total_usage_liters": 573
+                },
+                {
+                    "date": "2024-12-05",
+                    "total_usage_liters": 589
+                },
+                {
+                    "date": "2024-12-06",
+                    "total_usage_liters": 538
+                },
+                {
+                    "date": "2024-12-07",
+                    "total_usage_liters": 558
+                },
+                {
+                    "date": "2024-12-08",
+                    "total_usage_liters": 473
+                },
+                {
+                    "date": "2024-12-09",
+                    "total_usage_liters": 665
+                },
+                {
+                    "date": "2024-12-10",
+                    "total_usage_liters": 639
+                },
+                {
+                    "date": "2024-12-11",
+                    "total_usage_liters": 632
+                },
+                {
+                    "date": "2024-12-12",
+                    "total_usage_liters": 738
+                },
+                {
+                    "date": "2024-12-13",
+                    "total_usage_liters": 545
+                },
+                {
+                    "date": "2024-12-14",
+                    "total_usage_liters": 713
+                },
+                {
+                    "date": "2024-12-15",
+                    "total_usage_liters": 612
+                },
+                {
+                    "date": "2024-12-16",
+                    "total_usage_liters": 597
+                }
+            ],
+            "monthly_total_liters": 18181
+        }
+    ]
+}

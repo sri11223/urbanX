@@ -1,0 +1,83 @@
+.hero-section {
+    height: 90vh;
+    position: relative;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .icon-circle {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  .animate-scaleOnHover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .animate-fadeInDown {
+    animation: fadeInDown 1s ease-in-out;
+  }
+  
+  .animate-fadeInUp {
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .animate-fadeInLeft {
+    animation: fadeInLeft 1s ease-in-out;
+  }
+  
+  .animate-fadeInRight {
+    animation: fadeInRight 1s ease-in-out;
+  }
+  
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes fadeInRight {
+    from {
+      opacity: 0;
+      transform: translateX(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
